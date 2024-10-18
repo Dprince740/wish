@@ -272,7 +272,7 @@ margin-top: 5px;
 @media (0px <= width <= 992px) {
     .nav2{
         padding: 20px 10px;
-        gap:10px;
+        gap:30px;
         display: flex;
         justify-content: space-between;
     }
@@ -285,7 +285,7 @@ margin-top: 5px;
 }
     .nav2 h2{
         padding-left: 20px;
-        font-size: 40px;
+        font-size: 30px;
     }
     .nav1{
         display: none;
